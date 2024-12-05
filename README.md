@@ -25,5 +25,5 @@ This is a formula to convert number to word for MS Excel
 
 # In the Save As box, in the Save as type list box, choose Excel Macro-Enabled Workbook (*.xlsm) then hit save
 
-<img src="Images/howtosave.PNG">
+<img src="Images/howtosave.png">
 
