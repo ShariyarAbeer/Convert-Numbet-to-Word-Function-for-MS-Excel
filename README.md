@@ -22,3 +22,8 @@ This is a formula to convert number to word for MS Excel
 <img src="Images/5.PNG">
 <img src="Images/6.PNG">
 <img src="Images/7.PNG">
+
+# In the Save As box, in the Save as type list box, choose Excel Macro-Enabled Workbook (*.xlsm) then hit save
+
+<img src="Images/howtosave.PNG">
+
