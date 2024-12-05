@@ -39,11 +39,11 @@ Function SpellNumber(ByVal MyNumber)
     End Select
     Select Case Paisa
         Case ""
-            Paisa = " and No Paisa"
+            Paisa = " "
         Case "One"
-            Paisa = " and One Cent"
+            Paisa = " One Paisa"
         Case Else
-            Paisa = " and " & Paisa & " Paisa"
+            Paisa = " " & Paisa & " Paisa"
     End Select
     SpellNumber = Taka & Paisa
 End Function
